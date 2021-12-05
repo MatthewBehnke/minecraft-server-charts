@@ -2,7 +2,7 @@
 
 [![](https://github.com/itzg/minecraft-server-charts/workflows/Release%20Charts/badge.svg?branch=master)](https://github.com/itzg/minecraft-server-charts/actions)
 
-## Usage
+## Usage 
 
 [Helm](https://helm.sh) must be installed to use the charts.
 Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
